@@ -48,10 +48,10 @@ export default function Home() {
   const saveUser = async (data: User) => {
     if (selectedUser) {
       await updateUser(data);
-      toast.current?.show({ severity: 'success', summary: 'Success', detail: 'Usuario actualizado', life: 3000 });
+      toast.current?.show({ severity: 'success', summary: 'Acción exitosa!', detail: 'Usuario actualizado', life: 3000 });
     } else {
       await postUser(data);
-      toast.current?.show({ severity: 'success', summary: 'Success', detail: 'Usuario guardado', life: 3000 });
+      toast.current?.show({ severity: 'success', summary: 'Acción exitosa!', detail: 'Usuario guardado', life: 3000 });
     }
   };
 
@@ -79,7 +79,7 @@ export default function Home() {
   const handleDelete = async (id: string) => {
     try {
       await deleteUser(id);
-      toast.current?.show({ severity: 'success', summary: 'Success', detail: 'Usuario eliminado', life: 3000 });
+      toast.current?.show({ severity: 'success', summary: 'Acción exitosa!', detail: 'Usuario eliminado', life: 3000 });
       getUser(page, filtros.busqueda, filtros.estado).then((res) => setUsers(res));
     } catch (error) {
       console.error('Error al eliminar el usuario:', error);
