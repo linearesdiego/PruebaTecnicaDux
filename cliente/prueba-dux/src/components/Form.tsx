@@ -48,6 +48,7 @@ export const Form: React.FC<FormularioProps> = ({ user = null, onSave , visible,
   const handleSubmit = () => {
     if (isFormValid) {
         onSave(formData);
+        setFormData(initialFormState);
     }
   };
 

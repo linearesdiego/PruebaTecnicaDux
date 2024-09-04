@@ -1,7 +1,7 @@
 # PRUEBA-DUX
 
 ## Descripcion
-
+- PRUEBA-DUX es una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) con funcionalidad de paginación implementada. Esta aplicación permite a los usuarios gestionar una lista de usuarios, ofreciendo opciones para agregar, editar y eliminar usuarios de manera intuitiva.
 
 ## Tecnologias utilizadas y herramientas
 
@@ -46,7 +46,7 @@
 - Editar usuario
 - Eliminar usuario
 - Paginacion 
-
+- Los usuario se agregan al final de la tabla
 
 ## Diseño
 

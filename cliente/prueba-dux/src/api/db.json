@@ -8393,18 +8393,7 @@
       "usuario": "ddd",
       "estado": "ACTIVO",
       "sector": 2000
-    },
-    {
-      "id": "933731",
-      "usuario": "diego",
-      "estado": "ACTIVO",
-      "sector": 2000
-    },
-    {
-      "id": "4444",
-      "usuario": "diego",
-      "estado": "ACTIVO",
-      "sector": 2000
     }
+    
   ]
 }
