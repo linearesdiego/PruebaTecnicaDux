@@ -1,0 +1,8410 @@
+{
+  "users": [
+    {
+      "id": "933631",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "STAR OVER SRL"
+    },
+    {
+      "id": "933632",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "933633",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "AS"
+    },
+    {
+      "id": "933634",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "OLIVETI"
+    },
+    {
+      "id": "933635",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "933636",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "REINA"
+    },
+    {
+      "id": "933637",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "933638",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "933639",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "933640",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "933641",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "933642",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "933643",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "933644",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "933645",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "933646",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "933647",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "933648",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "933649",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "933650",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "933651",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "933652",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "933653",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "933654",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "933655",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "933656",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "933657",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "933658",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "933659",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "933660",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "933661",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "933662",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "933663",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "933664",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "933665",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "933666",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "933667",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "933668",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "933669",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "933670",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "933671",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "933672",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "933673",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "MELE"
+    },
+    {
+      "id": "933674",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "933675",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "933676",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "933677",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "933678",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "933679",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "933680",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "933681",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "933682",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "933683",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "933684",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "933685",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "933686",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "933687",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "933688",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "933689",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "933690",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "933691",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "933692",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "933693",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "933694",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "933695",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "933696",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "933697",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "933698",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "933699",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "933700",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "933701",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "933702",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "933703",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "933704",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "933705",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "933706",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "933707",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "933708",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "933709",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "933710",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "933711",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "933712",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "933713",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "933714",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "933715",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "933716",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "933717",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "933718",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "933719",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "933720",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "933721",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "LUI"
+    },
+    {
+      "id": "933722",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "933723",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "933724",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "933725",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "933726",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "933727",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "933728",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "933729",
+      "estado": "INACTIVO",
+      "sector": 1000,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "933730",
+      "estado": "ACTIVO",
+      "sector": 1000,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "933732",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "933733",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "AS"
+    },
+    {
+      "id": "933735",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "933736",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "REINA"
+    },
+    {
+      "id": "933737",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "933738",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "933739",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "933740",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "933741",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "933742",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "933743",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "933744",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "933745",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "933746",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "933747",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "933748",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "933749",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "933750",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "933751",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "933752",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "933753",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "933754",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "933755",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "933756",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "933757",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "933758",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "933759",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "933760",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "933761",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "933762",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "933763",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "933764",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "933765",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "933766",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "933767",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "933768",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "933769",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "933770",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "933771",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "933772",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "933773",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "MELE"
+    },
+    {
+      "id": "933774",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "933775",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "933776",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "933777",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "933778",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "933779",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "933780",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "933781",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "933782",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "933783",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "933784",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "933785",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "933786",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "933787",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "933788",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "933789",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "933790",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "933791",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "933792",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "933793",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "933794",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "933795",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "933796",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "933797",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "933798",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "933799",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "933800",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "933801",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "933802",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "933803",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "933804",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "933805",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "933806",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "933807",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "933808",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "933809",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "933810",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "933811",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "933812",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "933813",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "933814",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "933815",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "933816",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "933817",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "933818",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "933819",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "933820",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "933821",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "LUI"
+    },
+    {
+      "id": "933822",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "933823",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "933824",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "933825",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "933826",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "933827",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "933828",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "933829",
+      "estado": "INACTIVO",
+      "sector": 2000,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "933830",
+      "estado": "ACTIVO",
+      "sector": 2000,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "933831",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "STAR OVER SRL"
+    },
+    {
+      "id": "933832",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "933833",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "AS"
+    },
+    {
+      "id": "933834",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "OLIVETI"
+    },
+    {
+      "id": "933835",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "933836",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "REINA"
+    },
+    {
+      "id": "933837",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "933838",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "933839",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "933840",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "933841",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "933842",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "933843",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "933844",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "933845",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "933846",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "933847",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "933848",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "933849",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "933850",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "933851",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "933852",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "933853",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "933854",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "933855",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "933856",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "933857",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "933858",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "933859",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "933860",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "933861",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "933862",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "933863",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "933864",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "933865",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "933866",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "933867",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "933868",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "933869",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "933870",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "933871",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "933872",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "933873",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "MELE"
+    },
+    {
+      "id": "933874",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "933875",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "933876",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "933877",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "933878",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "933879",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "933880",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "933881",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "933882",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "933883",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "933884",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "933885",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "933886",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "933887",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "933888",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "933889",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "933890",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "933891",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "933892",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "933893",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "933894",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "933895",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "933896",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "933897",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "933898",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "933899",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "933900",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "933901",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "933902",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "933903",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "933904",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "933905",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "933906",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "933907",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "933908",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "933909",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "933910",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "933911",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "933912",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "933913",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "933914",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "933915",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "933916",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "933917",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "933918",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "933919",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "933920",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "933921",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "LUI"
+    },
+    {
+      "id": "933922",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "933923",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "933924",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "933925",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "933926",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "933927",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "933928",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "933929",
+      "estado": "INACTIVO",
+      "sector": 3000,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "933930",
+      "estado": "ACTIVO",
+      "sector": 3000,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "933931",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "STAR OVER SRL"
+    },
+    {
+      "id": "933932",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "933933",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "AS"
+    },
+    {
+      "id": "933934",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "OLIVETI"
+    },
+    {
+      "id": "933935",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "933936",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "REINA"
+    },
+    {
+      "id": "933937",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "933938",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "933939",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "933940",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "933941",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "933942",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "933943",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "933944",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "933945",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "933946",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "933947",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "933948",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "933949",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "933950",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "933951",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "933952",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "933953",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "933954",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "933955",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "933956",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "933957",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "933958",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "933959",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "933960",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "933961",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "933962",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "933963",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "933964",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "933965",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "933966",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "933967",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "933968",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "933969",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "933970",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "933971",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "933972",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "933973",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "MELE"
+    },
+    {
+      "id": "933974",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "933975",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "933976",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "933977",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "933978",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "933979",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "933980",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "933981",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "933982",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "933983",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "933984",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "933985",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "933986",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "933987",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "933988",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "933989",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "933990",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "933991",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "933992",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "933993",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "933994",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "933995",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "933996",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "933997",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "933998",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "933999",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "934000",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "934001",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "934002",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "934003",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "934004",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "934005",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "934006",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "934007",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "934008",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "934009",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "934010",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "934011",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "934012",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "934013",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "934014",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "934015",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "934016",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "934017",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "934018",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934019",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "934020",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "934021",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "LUI"
+    },
+    {
+      "id": "934022",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934023",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "934024",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "934025",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "934026",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "934027",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "934028",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "934029",
+      "estado": "INACTIVO",
+      "sector": 4000,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "934030",
+      "estado": "ACTIVO",
+      "sector": 4000,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "934031",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "STAR OVER SRL"
+    },
+    {
+      "id": "934032",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "934033",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "AS"
+    },
+    {
+      "id": "934034",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "OLIVETI"
+    },
+    {
+      "id": "934035",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "934036",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "REINA"
+    },
+    {
+      "id": "934037",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "934038",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "934039",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "934040",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "934041",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "934042",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "934043",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "934044",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "934045",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "934046",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "934047",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "934048",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "934049",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "934050",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "934051",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "934052",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "934053",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "934054",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934055",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "934056",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "934057",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "934058",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "934059",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "934060",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "934061",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "934062",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934063",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934064",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "934065",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "934066",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "934067",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "934068",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "934069",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "934070",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "934071",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "934072",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "934073",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "MELE"
+    },
+    {
+      "id": "934074",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "934075",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "934076",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "934077",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "934078",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "934079",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934080",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "934081",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "934082",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "934083",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "934084",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "934085",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934086",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934087",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "934088",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934089",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934090",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "934091",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "934092",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934093",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "934094",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "934095",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "934096",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "934097",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934098",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "934099",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "934100",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "934101",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "934102",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "934103",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "934104",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "934105",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "934106",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "934107",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "934108",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "934109",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "934110",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "934111",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "934112",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "934113",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "934114",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "934115",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "934116",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "934117",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "934118",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934119",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "934120",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "934121",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "LUI"
+    },
+    {
+      "id": "934122",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934123",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "934124",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "934125",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "934126",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "934127",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "934128",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "934129",
+      "estado": "INACTIVO",
+      "sector": 5000,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "934130",
+      "estado": "ACTIVO",
+      "sector": 5000,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "934131",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "STAR OVER SRL"
+    },
+    {
+      "id": "934132",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "934133",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "AS"
+    },
+    {
+      "id": "934134",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "OLIVETI"
+    },
+    {
+      "id": "934135",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "934136",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "REINA"
+    },
+    {
+      "id": "934137",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "934138",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "934139",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "934140",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "934141",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "934142",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "934143",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "934144",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "934145",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "934146",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "934147",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "934148",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "934149",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "934150",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "934151",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "934152",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "934153",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "934154",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934155",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "934156",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "934157",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "934158",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "934159",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "934160",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "934161",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "934162",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934163",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934164",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "934165",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "934166",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "934167",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "934168",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "934169",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "934170",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "934171",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "934172",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "934173",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "MELE"
+    },
+    {
+      "id": "934174",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "934175",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "934176",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "934177",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "934178",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "934179",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934180",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "934181",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "934182",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "934183",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "934184",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "934185",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934186",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934187",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "934188",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934189",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934190",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "934191",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "934192",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934193",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "934194",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "934195",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "934196",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "934197",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934198",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "934199",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "934200",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "934201",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "934202",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "934203",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "934204",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "934205",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "934206",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "934207",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "934208",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "934209",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "934210",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "934211",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "934212",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "934213",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "934214",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "934215",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "934216",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "934217",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "934218",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934219",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "934220",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "934221",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "LUI"
+    },
+    {
+      "id": "934222",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934223",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "934224",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "934225",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "934226",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "934227",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "934228",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "934229",
+      "estado": "INACTIVO",
+      "sector": 6000,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "934230",
+      "estado": "ACTIVO",
+      "sector": 6000,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "934231",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "STAR OVER SRL"
+    },
+    {
+      "id": "934232",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "934233",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "AS"
+    },
+    {
+      "id": "934234",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "OLIVETI"
+    },
+    {
+      "id": "934235",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "934236",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "REINA"
+    },
+    {
+      "id": "934237",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "934238",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "934239",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "934240",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "934241",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "934242",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "934243",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "934244",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "934245",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "934246",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "934247",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "934248",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "934249",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "934250",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "934251",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "934252",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "934253",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "934254",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934255",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "934256",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "934257",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "934258",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "934259",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "934260",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "934261",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "934262",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934263",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934264",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "934265",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "934266",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "934267",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "934268",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "934269",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "934270",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "934271",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "934272",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "934273",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "MELE"
+    },
+    {
+      "id": "934274",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "934275",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "934276",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "934277",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "934278",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "934279",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934280",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "934281",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "934282",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "934283",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "934284",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "934285",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934286",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934287",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "934288",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934289",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934290",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "934291",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "934292",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934293",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "934294",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "934295",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "934296",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "934297",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934298",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "934299",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "934300",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "934301",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "934302",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "934303",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "934304",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "934305",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "934306",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "934307",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "934308",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "934309",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "934310",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "934311",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "934312",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "934313",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "934314",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "934315",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "934316",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "934317",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "934318",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934319",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "934320",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "934321",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "LUI"
+    },
+    {
+      "id": "934322",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934323",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "934324",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "934325",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "934326",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "934327",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "934328",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "934329",
+      "estado": "INACTIVO",
+      "sector": 7000,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "934330",
+      "estado": "ACTIVO",
+      "sector": 7000,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "934331",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "STAR OVER SRL"
+    },
+    {
+      "id": "934332",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "934333",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "AS"
+    },
+    {
+      "id": "934334",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "OLIVETI"
+    },
+    {
+      "id": "934335",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "934336",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "REINA"
+    },
+    {
+      "id": "934337",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "934338",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "934339",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "934340",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "934341",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "934342",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "934343",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "934344",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "934345",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "934346",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "934347",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "934348",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "934349",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "934350",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "934351",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "934352",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "934353",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "934354",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934355",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "934356",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "934357",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "934358",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "934359",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "934360",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "934361",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "934362",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934363",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934364",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "934365",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "934366",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "934367",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "934368",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "934369",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "934370",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "934371",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "934372",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "934373",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "MELE"
+    },
+    {
+      "id": "934374",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "934375",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "934376",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "934377",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "934378",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "934379",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934380",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "934381",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "934382",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "934383",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "934384",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "934385",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934386",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934387",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "934388",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934389",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934390",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "934391",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "934392",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934393",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "934394",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "934395",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "934396",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "934397",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934398",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "934399",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "934400",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "934401",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "934402",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "934403",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "934404",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "934405",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "934406",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "934407",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "934408",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "934409",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "934410",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "934411",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "934412",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "934413",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "934414",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "934415",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "934416",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "934417",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "934418",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934419",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "934420",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "934421",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "LUI"
+    },
+    {
+      "id": "934422",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934423",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "934424",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "934425",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "934426",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "934427",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "934428",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "934429",
+      "estado": "INACTIVO",
+      "sector": 8000,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "934430",
+      "estado": "ACTIVO",
+      "sector": 8000,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "934431",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "STAR OVER SRL"
+    },
+    {
+      "id": "934432",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "934433",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "AS"
+    },
+    {
+      "id": "934434",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "OLIVETI"
+    },
+    {
+      "id": "934435",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "934436",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "REINA"
+    },
+    {
+      "id": "934437",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "934438",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "934439",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "934440",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "934441",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "934442",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "934443",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "934444",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "934445",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "934446",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "934447",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "934448",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "934449",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "934450",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "934451",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "934452",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "934453",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "934454",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934455",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "934456",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "934457",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "934458",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "934459",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "934460",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "934461",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "934462",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934463",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934464",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "934465",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "934466",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "934467",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "934468",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "934469",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "934470",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "934471",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "934472",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "934473",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "MELE"
+    },
+    {
+      "id": "934474",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "934475",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "934476",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "934477",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "934478",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "934479",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934480",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "934481",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "934482",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "934483",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "934484",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "934485",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934486",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934487",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "934488",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934489",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934490",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "934491",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "934492",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934493",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "934494",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "934495",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "934496",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "934497",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934498",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "934499",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "934500",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "934501",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "934502",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "934503",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "934504",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "934505",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "934506",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "934507",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "934508",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "934509",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "934510",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "934511",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "934512",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "934513",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "934514",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "934515",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "934516",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "934517",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "934518",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934519",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "934520",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "934521",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "LUI"
+    },
+    {
+      "id": "934522",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934523",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "934524",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "934525",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "934526",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "934527",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "934528",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "934529",
+      "estado": "INACTIVO",
+      "sector": 9000,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "934530",
+      "estado": "ACTIVO",
+      "sector": 9000,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "934531",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "STAR OVER SRL"
+    },
+    {
+      "id": "934532",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "934533",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "AS"
+    },
+    {
+      "id": "934534",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "OLIVETI"
+    },
+    {
+      "id": "934535",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "934536",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "REINA"
+    },
+    {
+      "id": "934537",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "934538",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "934539",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "934540",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "934541",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "934542",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "934543",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "934544",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "934545",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "934546",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "934547",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "934548",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "934549",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "934550",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "934551",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "934552",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "934553",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "934554",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934555",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "934556",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "934557",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "934558",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "934559",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "934560",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "934561",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "934562",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934563",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934564",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "934565",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "934566",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "934567",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "934568",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "934569",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "934570",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "934571",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "934572",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "934573",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "MELE"
+    },
+    {
+      "id": "934574",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "934575",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "934576",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "934577",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "934578",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "934579",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934580",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "934581",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "934582",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "934583",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "934584",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "934585",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934586",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934587",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "934588",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934589",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934590",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "934591",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "934592",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934593",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "934594",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "934595",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "934596",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "934597",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934598",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "934599",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "934600",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "934601",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "934602",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "934603",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "934604",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "934605",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "934606",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "934607",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "934608",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "934609",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "934610",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "934611",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "934612",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "934613",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "934614",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "934615",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "934616",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "934617",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "934618",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934619",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "934620",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "934621",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "LUI"
+    },
+    {
+      "id": "934622",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934623",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "934624",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "934625",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "934626",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "934627",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "934628",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "934629",
+      "estado": "INACTIVO",
+      "sector": 1111,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "934630",
+      "estado": "ACTIVO",
+      "sector": 1111,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "934631",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "STAR OVER SRL"
+    },
+    {
+      "id": "934632",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "934633",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "AS"
+    },
+    {
+      "id": "934634",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "OLIVETI"
+    },
+    {
+      "id": "934635",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "934636",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "REINA"
+    },
+    {
+      "id": "934637",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "934638",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "934639",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "934640",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "934641",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "934642",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "934643",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "934644",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "934645",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "934646",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "934647",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "934648",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "934649",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "934650",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "934651",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "934652",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "934653",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "934654",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934655",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "934656",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "934657",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "934658",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "934659",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "934660",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "934661",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "934662",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934663",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934664",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "934665",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "934666",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "934667",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "934668",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "934669",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "934670",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "934671",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "934672",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "934673",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "MELE"
+    },
+    {
+      "id": "934674",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "934675",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "934676",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "934677",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "934678",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "934679",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934680",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "934681",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "934682",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "934683",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "934684",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "934685",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934686",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934687",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "934688",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934689",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934690",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "934691",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "934692",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934693",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "934694",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "934695",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "934696",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "934697",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934698",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "934699",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "934700",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "934701",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "934702",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "934703",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "934704",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "934705",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "934706",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "934707",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "934708",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "934709",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "934710",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "934711",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "934712",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "934713",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "934714",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "934715",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "934716",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "934717",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "934718",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934719",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "934720",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "934721",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "LUI"
+    },
+    {
+      "id": "934722",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934723",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "934724",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "934725",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "934726",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "934727",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "934728",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "934729",
+      "estado": "INACTIVO",
+      "sector": 2222,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "934730",
+      "estado": "ACTIVO",
+      "sector": 2222,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "934731",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "STAR OVER SRL"
+    },
+    {
+      "id": "934732",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "934733",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "AS"
+    },
+    {
+      "id": "934734",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "OLIVETI"
+    },
+    {
+      "id": "934735",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "934736",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "REINA"
+    },
+    {
+      "id": "934737",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "934738",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "934739",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "934740",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "934741",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "934742",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "934743",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "934744",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "934745",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "934746",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "934747",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "934748",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "934749",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "934750",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "934751",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "934752",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "934753",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "934754",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934755",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "934756",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "934757",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "934758",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "934759",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "934760",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "934761",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "934762",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934763",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934764",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "934765",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "934766",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "934767",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "934768",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "934769",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "934770",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "934771",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "934772",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "934773",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "MELE"
+    },
+    {
+      "id": "934774",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "934775",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "934776",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "934777",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "934778",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "934779",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934780",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "934781",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "934782",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "934783",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "934784",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "934785",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934786",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934787",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "934788",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934789",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934790",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "934791",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "934792",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934793",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "934794",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "934795",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "934796",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "934797",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934798",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "934799",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "934800",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "934801",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "934802",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "934803",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "934804",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "934805",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "934806",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "934807",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "934808",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "934809",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "934810",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "934811",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "934812",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "934813",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "934814",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "934815",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "934816",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "934817",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "934818",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934819",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "934820",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "934821",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "LUI"
+    },
+    {
+      "id": "934822",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934823",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "934824",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "934825",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "934826",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "934827",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "934828",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "934829",
+      "estado": "INACTIVO",
+      "sector": 3333,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "934830",
+      "estado": "ACTIVO",
+      "sector": 3333,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "934831",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "STAR OVER SRL"
+    },
+    {
+      "id": "934832",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "934833",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "AS"
+    },
+    {
+      "id": "934834",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "OLIVETI"
+    },
+    {
+      "id": "934835",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "934836",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "REINA"
+    },
+    {
+      "id": "934837",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "934838",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "934839",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "934840",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "934841",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "934842",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "934843",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "934844",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "934845",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "934846",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "934847",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "934848",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "934849",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "934850",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "934851",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "934852",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "934853",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "934854",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934855",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "934856",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "934857",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "934858",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "934859",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "934860",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "934861",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "934862",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934863",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934864",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "934865",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "934866",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "934867",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "934868",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "934869",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "934870",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "934871",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "934872",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "934873",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "MELE"
+    },
+    {
+      "id": "934874",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "934875",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "934876",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "934877",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "934878",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "934879",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934880",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "934881",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "934882",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "934883",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "934884",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "934885",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934886",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934887",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "934888",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934889",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934890",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "934891",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "934892",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934893",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "934894",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "934895",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "934896",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "934897",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934898",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "934899",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "934900",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "934901",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "934902",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "934903",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "934904",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "934905",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "934906",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "934907",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "934908",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "934909",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "934910",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "934911",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "934912",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "934913",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "934914",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "934915",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "934916",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "934917",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "934918",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934919",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "934920",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "934921",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "LUI"
+    },
+    {
+      "id": "934922",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934923",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "934924",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "934925",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "934926",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "934927",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "934928",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "934929",
+      "estado": "INACTIVO",
+      "sector": 4444,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "934930",
+      "estado": "ACTIVO",
+      "sector": 4444,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "934931",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "STAR OVER SRL"
+    },
+    {
+      "id": "934932",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ADMINGSC"
+    },
+    {
+      "id": "934933",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "AS"
+    },
+    {
+      "id": "934934",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "OLIVETI"
+    },
+    {
+      "id": "934935",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "GOMEZ"
+    },
+    {
+      "id": "934936",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "REINA"
+    },
+    {
+      "id": "934937",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ADMINCHELA"
+    },
+    {
+      "id": "934938",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "CENTURION"
+    },
+    {
+      "id": "934939",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "CUERVA"
+    },
+    {
+      "id": "934940",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "DIAZ"
+    },
+    {
+      "id": "934941",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "NORA TOURIÑO"
+    },
+    {
+      "id": "934942",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "PAULA"
+    },
+    {
+      "id": "934943",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "GRISOLIA"
+    },
+    {
+      "id": "934944",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "TEISCEIRA"
+    },
+    {
+      "id": "934945",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "GUELFAND"
+    },
+    {
+      "id": "934946",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "RODRIGO FREIDIG"
+    },
+    {
+      "id": "934947",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "DE LUCA"
+    },
+    {
+      "id": "934948",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ANTO"
+    },
+    {
+      "id": "934949",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ARMUA"
+    },
+    {
+      "id": "934950",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "SAYAS"
+    },
+    {
+      "id": "934951",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "HAJEK"
+    },
+    {
+      "id": "934952",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "CORREA"
+    },
+    {
+      "id": "934953",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "CONTRERA"
+    },
+    {
+      "id": "934954",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "934955",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ROBERT"
+    },
+    {
+      "id": "934956",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "DUOTEXTIL2"
+    },
+    {
+      "id": "934957",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ROCCA"
+    },
+    {
+      "id": "934958",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "GARCIA"
+    },
+    {
+      "id": "934959",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "PEREYRA"
+    },
+    {
+      "id": "934960",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "VALUESPRODUCTOS1"
+    },
+    {
+      "id": "934961",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "WALDEMAR"
+    },
+    {
+      "id": "934962",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934963",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "LANDINI"
+    },
+    {
+      "id": "934964",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "CALLAO"
+    },
+    {
+      "id": "934965",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "LUCIANO"
+    },
+    {
+      "id": "934966",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "GUILLIN"
+    },
+    {
+      "id": "934967",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ZANELLO"
+    },
+    {
+      "id": "934968",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "BERTORA 2"
+    },
+    {
+      "id": "934969",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "FURIEUX"
+    },
+    {
+      "id": "934970",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "SOSA"
+    },
+    {
+      "id": "934971",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "PROLUBE"
+    },
+    {
+      "id": "934972",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "MORENO"
+    },
+    {
+      "id": "934973",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "MELE"
+    },
+    {
+      "id": "934974",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "DEPOSITO"
+    },
+    {
+      "id": "934975",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "TOLEDO"
+    },
+    {
+      "id": "934976",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "PERSONAL DE ATENCION AL PUBLICO"
+    },
+    {
+      "id": "934977",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "GUACUTO"
+    },
+    {
+      "id": "934978",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "GIMENEZ"
+    },
+    {
+      "id": "934979",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934980",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "AVELLANEDA"
+    },
+    {
+      "id": "934981",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "RUBIO"
+    },
+    {
+      "id": "934982",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "CRUZ"
+    },
+    {
+      "id": "934983",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ALANIZ"
+    },
+    {
+      "id": "934984",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "TURNER"
+    },
+    {
+      "id": "934985",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934986",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "POLETTI"
+    },
+    {
+      "id": "934987",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "OSEZ"
+    },
+    {
+      "id": "934988",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934989",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "PEDIPOSTRE"
+    },
+    {
+      "id": "934990",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "BORGNA"
+    },
+    {
+      "id": "934991",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "VALENTIN MUÑOZ DE ZARATE"
+    },
+    {
+      "id": "934992",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "934993",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "BALLERINI"
+    },
+    {
+      "id": "934994",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "MUSCA"
+    },
+    {
+      "id": "934995",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "MIÑO"
+    },
+    {
+      "id": "934996",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ADMINISTRADOR"
+    },
+    {
+      "id": "934997",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "SCHNEIDER"
+    },
+    {
+      "id": "934998",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ALEXISSPARES"
+    },
+    {
+      "id": "934999",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ONUFROVICH"
+    },
+    {
+      "id": "935000",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "PAZ"
+    },
+    {
+      "id": "935001",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ECLIPSIA2"
+    },
+    {
+      "id": "935002",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "SUHURT"
+    },
+    {
+      "id": "935003",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "BIDERBOST"
+    },
+    {
+      "id": "935004",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "RAMIREZ"
+    },
+    {
+      "id": "935005",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "BARALE RICARDO"
+    },
+    {
+      "id": "935006",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "BENITEZ"
+    },
+    {
+      "id": "935007",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "CORONEL"
+    },
+    {
+      "id": "935008",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "FIGUEROA"
+    },
+    {
+      "id": "935009",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "PATRICIA SOSA"
+    },
+    {
+      "id": "935010",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ARANIBE"
+    },
+    {
+      "id": "935011",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ALLEVA"
+    },
+    {
+      "id": "935012",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "CHIALVO"
+    },
+    {
+      "id": "935013",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ZERO HUMEDAD2"
+    },
+    {
+      "id": "935014",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ESCUDERO"
+    },
+    {
+      "id": "935015",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "PERFUMERIA"
+    },
+    {
+      "id": "935016",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "SPADAFINO"
+    },
+    {
+      "id": "935017",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "POGGI"
+    },
+    {
+      "id": "935018",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ALVAREZ"
+    },
+    {
+      "id": "935019",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "PETRELLI"
+    },
+    {
+      "id": "935020",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "MIGANI"
+    },
+    {
+      "id": "935021",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "LUI"
+    },
+    {
+      "id": "935022",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "ADMINISTRACION"
+    },
+    {
+      "id": "935023",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "POLACEK"
+    },
+    {
+      "id": "935024",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "MASTER LASH"
+    },
+    {
+      "id": "935025",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "ADMFERREFIX"
+    },
+    {
+      "id": "935026",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "VENTASFERREFIX"
+    },
+    {
+      "id": "935027",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "PELLIZZERI"
+    },
+    {
+      "id": "935028",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "BORGIA"
+    },
+    {
+      "id": "935029",
+      "estado": "INACTIVO",
+      "sector": 5555,
+      "usuario": "WALTER BESTTEY"
+    },
+    {
+      "id": "935030",
+      "estado": "ACTIVO",
+      "sector": 5555,
+      "usuario": "GUEVARA"
+    },
+    {
+      "id": "933731",
+      "usuario": "ddd",
+      "estado": "ACTIVO",
+      "sector": 2000
+    },
+    {
+      "id": "933731",
+      "usuario": "diego",
+      "estado": "ACTIVO",
+      "sector": 2000
+    },
+    {
+      "id": "4444",
+      "usuario": "diego",
+      "estado": "ACTIVO",
+      "sector": 2000
+    }
+  ]
+}

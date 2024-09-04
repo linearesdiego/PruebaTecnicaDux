@@ -1,0 +1,12 @@
+
+body{
+  box-sizing: border-box;
+  margin: 0;
+}
+
+
+:root{
+  --blue-700:#0763E7 !important;
+  --blue-400:#3B82F6 !important;
+  --blue-200:#2D3E50 !important;
+}
