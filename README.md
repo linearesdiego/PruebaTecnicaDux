@@ -6,7 +6,7 @@
 ## Tecnologias utilizadas y herramientas
 
 1. Next js 14 ✅
-2. Primeflex
+2. Primeflex ✅
 3. Primereact ✅
 4. json-server ✅
 5. axios ✅
