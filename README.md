@@ -47,7 +47,9 @@
 - Eliminar usuario
 - Paginacion 
 - Los usuario se agregan al final de la tabla
+## Desafios
 
+- Utilizar nuevas librerias de componentes como primereact y tambien de estilos css como primeflex
 ## Diseño
 
 - https://www.figma.com/design/HjDhupf4ipWvC2el9fqTse/Challange-Dux?node-id=422-13216&node-type=FRAME&t=BrvV2p3vM2NEuKtg-0
