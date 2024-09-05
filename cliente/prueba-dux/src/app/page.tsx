@@ -96,16 +96,18 @@ export default function Home() {
   return (
     <main className="mt-3 mx-3">
       <Toast ref={toast} />
-
+        
       <div className="w-full flex align-items-center justify-content-between mb-2">
         <h1>Usuarios</h1>
+        {/* Modal para agregar y editar */}
         <Form user={selectedUser} onSave={handleSave} visible={visible} setVisible={setVisible} setSelectedUser={setSelectedUser} />
       </div>
-
+      {/* filtrados */}
       <Filters filtros={filtros} onFiltroChange={handleFiltros} onClear={handleClearFilters} />
+      {/* Tabla de usuarios*/}
 
       <UserTable users={users?.data} onEdit={handleEdit} onDelete={handleDelete} />
-
+      {/* Paginacion*/}
       <PaginatorComponent first={first} rows={rows} totalRecords={users?.items} onPageChange={onPageChange} />
     </main>
   );
